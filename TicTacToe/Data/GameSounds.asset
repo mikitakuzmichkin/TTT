@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 058378221fab45c79c456c373b1e8988, type: 3}
+  m_Name: GameSounds
+  m_EditorClassIdentifier: 
+  _sounds:
+    reorderableList:
+      canAdd: 1
+      canRemove: 1
+      draggable: 1
+      expandable: 1
+      multipleSelection: 1
+      isExpanded: 1
+      label:
+        m_Text: Keys
+        m_Image: {fileID: 0}
+        m_Tooltip: 
+      headerHeight: 18
+      footerHeight: 13
+      slideEasing: 0.15
+      verticalSpacing: 2
+      showDefaultBackground: 1
+      elementDisplayType: 0
+      elementNameProperty: 
+      elementNameOverride: 
+      elementIcon: {fileID: 0}
+    reqReferences: {fileID: 0}
+    isExpanded: 1
+    _keyValues: 000000000100000002000000030000000400000005000000
+    _keys: 000000000100000002000000030000000400000005000000
+    _values:
+    - {fileID: 8300000, guid: 967a2b7981483bd47a59e88f128529d3, type: 3}
+    - {fileID: 8300000, guid: 1593eb800a9869144abfe25628d06725, type: 3}
+    - {fileID: 8300000, guid: ac024a565c898d64c8d6c5d9fac5dbb9, type: 3}
+    - {fileID: 8300000, guid: 56d80a7c4a94429498dd3f56a3d12fae, type: 3}
+    - {fileID: 8300000, guid: bf30b61151c596442a9c456dee76d9c0, type: 3}
+    - {fileID: 8300000, guid: ecaec5da56d91314dbed39bd8bb8bb3f, type: 3}

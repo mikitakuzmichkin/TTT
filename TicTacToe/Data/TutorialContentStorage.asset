@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 65bd1cae3e744d97ae7d4acde4052bc1, type: 3}
+  m_Name: TutorialContentStorage
+  m_EditorClassIdentifier: 
+  _modeTutorials:
+    reorderableList:
+      canAdd: 1
+      canRemove: 1
+      draggable: 1
+      expandable: 1
+      multipleSelection: 1
+      isExpanded: 1
+      label:
+        m_Text: Keys
+        m_Image: {fileID: 0}
+        m_Tooltip: 
+      headerHeight: 18
+      footerHeight: 13
+      slideEasing: 0.15
+      verticalSpacing: 2
+      showDefaultBackground: 1
+      elementDisplayType: 0
+      elementNameProperty: 
+      elementNameOverride: 
+      elementIcon: {fileID: 0}
+    reqReferences: {fileID: 0}
+    isExpanded: 1
+    _keyValues: 0000000001000000020000000300000004000000
+    _keys: 0000000001000000020000000300000004000000
+    _values:
+    - Slides:
+      - {fileID: 1443680097078856481, guid: e1b270148bcc6fe40b84fa13f76be93b, type: 3}
+      - {fileID: 1443680097078856481, guid: ca2536441d2372840a04848a0c537f0d, type: 3}
+    - Slides:
+      - {fileID: 1443680097078856481, guid: b3de9b66c35482147b5a0025832be9cf, type: 3}
+      - {fileID: 1196158634358213114, guid: e58b8e239999e784996a070f35015b29, type: 3}
+      - {fileID: 1196158634358213114, guid: 87fa9b62cc9aa2e4ea76e1f178c4beb7, type: 3}
+    - Slides:
+      - {fileID: 1443680097078856481, guid: db148f4804665434d9cb3a0f5a95cf52, type: 3}
+      - {fileID: 1443680097078856481, guid: 898c37106db4a044ea8367e781172d11, type: 3}
+      - {fileID: 1443680097078856481, guid: ecc40e5d9945d9e41b7547192719e2b8, type: 3}
+      - {fileID: 1443680097078856481, guid: 28fa7975b3287f74b9b7f36f9d2ac371, type: 3}
+      - {fileID: 1443680097078856481, guid: 25a4096df9562e643987c9c3438caaca, type: 3}
+      - {fileID: 1443680097078856481, guid: ed40b9951bf82c94da5e36f2adebc55d, type: 3}
+      - {fileID: 1443680097078856481, guid: b3124a093d60a0c4d85988fae4e66dc6, type: 3}
+      - {fileID: 1443680097078856481, guid: 77578bb0f43a42544963fb3c68c7d3f3, type: 3}
+    - Slides:
+      - {fileID: 1443680097078856481, guid: 678c261e6ee226d418c878b1d267a1b2, type: 3}
+      - {fileID: 1443680097078856481, guid: 75b4c34ccc5a62a4f82674f1c9154af4, type: 3}
+      - {fileID: 1443680097078856481, guid: 4e4fbfb2779c5cb499fc42869a9021e2, type: 3}
+      - {fileID: 1443680097078856481, guid: 5ad73bcee3bcff449aa7445fe0f71362, type: 3}
+      - {fileID: 1443680097078856481, guid: 39381350b9f50b341b9efc71723e2c24, type: 3}
+      - {fileID: 1443680097078856481, guid: d8c2befe5beb05f42858c10aacd9cf76, type: 3}
+      - {fileID: 1443680097078856481, guid: d8bd0dd1e425bfc4fa6e018a57e9a195, type: 3}
+      - {fileID: 1443680097078856481, guid: f94124baf927da242bcb0d108e411712, type: 3}
+      - {fileID: 1443680097078856481, guid: 1d774039c1495e94d8d7a7fa72973333, type: 3}
+      - {fileID: 1443680097078856481, guid: 5e08f3789426f874b85088bc27fb5fad, type: 3}
+      - {fileID: 1443680097078856481, guid: 9a0ce6f421e31cd4fa4bb946deae9c78, type: 3}
+      - {fileID: 1443680097078856481, guid: fc7f3e54175faac439028a14120d7aac, type: 3}
+    - Slides:
+      - {fileID: 1196158634358213114, guid: e58b8e239999e784996a070f35015b29, type: 3}
+      - {fileID: 1196158634358213114, guid: 87fa9b62cc9aa2e4ea76e1f178c4beb7, type: 3}

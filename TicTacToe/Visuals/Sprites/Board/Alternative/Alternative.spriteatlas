@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Alternative
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 2
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: b086d70fda528824c889736236cf4498, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: ffa434e17647e6a409008f1bc3c60dcb, type: 3}
+  - {fileID: 21300000, guid: 8e4253227e3660c4cb2c4193d5642477, type: 3}
+  - {fileID: 21300000, guid: fdf0f3a391d8d8d4f82d33695c81a4fd, type: 3}
+  - {fileID: 21300000, guid: bfd2e00a0467fd544a09ca6e82d97475, type: 3}
+  - {fileID: 21300000, guid: 42a66c5f6f3a64148b983ffbaeeab513, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - "draw-3\u0445-\u043A\u0440\u0430\u0442"
+  - "\u043A\u0440\u0435\u0441\u0442\u0438\u043A-\u0432-3\u0445-\u043A\u0440\u0430\u0442\u043D\u043E\u043C-\u0440\u0430\u0437\u043C\u0435\u0440\u0435-\u0431\u0435\u043B\u044B\u0439
+    1"
+  - "\u043D\u043E\u043B\u0438\u043A-\u0432-3\u0445-\u043A\u0440\u0430\u0442\u043D\u043E\u043C-\u0440\u0430\u0437\u043C\u0435\u0440\u0435-\u0431\u0435\u043B\u044B\u0439
+    1"
+  - "\u0432\u044B\u0434\u0435\u043B\u0435\u043D\u0438\u0435-\u0430\u043A\u0442\u0438\u0432\u043D\u043E\u0433\u043E-\u043F\u043E\u043B\u044F"
+  - "Winline-\u0432\u0435\u0440\u0442\u0438\u043A\u0430\u043B\u044C\u043D\u044B\u0439-3\u0445-\u043A\u0440\u0430\u0442\u043D\u044B\u0439-\u0440\u0430\u0437\u043C\u0435\u0440-\u0431\u0435\u043B\u044B\u0439
+    1"
+  m_Tag: Alternative
+  m_IsVariant: 0

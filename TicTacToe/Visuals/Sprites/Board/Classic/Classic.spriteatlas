@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Classic
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 2
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: ab538c97d4c30b34ca26ca0893dd5296, type: 3}
+    - {fileID: 2800000, guid: 877d540be7d641f429d781515166c3b3, type: 3}
+    - {fileID: 2800000, guid: 9990830a56c335b47be6279169e647b2, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: ab538c97d4c30b34ca26ca0893dd5296, type: 3}
+  - {fileID: 21300000, guid: 9990830a56c335b47be6279169e647b2, type: 3}
+  - {fileID: 21300000, guid: 877d540be7d641f429d781515166c3b3, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - "\u043A\u0440\u0435\u0441\u0442\u0438\u043A-\u0432-3\u0445-\u043A\u0440\u0430\u0442\u043D\u043E\u043C-\u0440\u0430\u0437\u043C\u0435\u0440\u0435-\u0431\u0435\u043B\u044B\u0439"
+  - "Winline-\u0432\u0435\u0440\u0442\u0438\u043A\u0430\u043B\u044C\u043D\u044B\u0439-3\u0445-\u043A\u0440\u0430\u0442\u043D\u044B\u0439-\u0440\u0430\u0437\u043C\u0435\u0440-\u0431\u0435\u043B\u044B\u0439"
+  - "\u043D\u043E\u043B\u0438\u043A-\u0432-3\u0445-\u043A\u0440\u0430\u0442\u043D\u043E\u043C-\u0440\u0430\u0437\u043C\u0435\u0440\u0435-\u0431\u0435\u043B\u044B\u0439"
+  m_Tag: Classic
+  m_IsVariant: 0

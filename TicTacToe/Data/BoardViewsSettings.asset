@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c4afcd38dcbd4f6381db3d936b4f34e9, type: 3}
+  m_Name: BoardViewsSettings
+  m_EditorClassIdentifier: 
+  _views:
+  - {fileID: 819136663071217462, guid: 329b0399420f4c44a8412f0c5f758883, type: 3}
+  - {fileID: 414303244470763132, guid: 37cd47d492415884091de23a778aed7c, type: 3}
+  - {fileID: 2043990798049465029, guid: 0fb15e14dc8adb8468ccc6863bdd2828, type: 3}

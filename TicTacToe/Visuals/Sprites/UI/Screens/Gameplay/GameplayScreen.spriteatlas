@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: GameplayScreen
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 2
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: de2c9833353cdb549bb4ce83f6dc4fa7, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 2b2bea91a94ddd24587a91922fc10a44, type: 3}
+  - {fileID: 21300000, guid: d18b5366ffff1a8419a3e60ceb9db5ee, type: 3}
+  - {fileID: 21300000, guid: f99227073c618e246805a0ec0b92e31b, type: 3}
+  - {fileID: 21300000, guid: 91b56bc734249f74a8e856af2b201ecd, type: 3}
+  - {fileID: 21300000, guid: 8efe6968491b1f54ba051f4888154963, type: 3}
+  - {fileID: 21300000, guid: 71ee6b0a1eba0e446b7b1090e8f592a6, type: 3}
+  - {fileID: 21300000, guid: b673bbdaea1a15946a9a7920816435b7, type: 3}
+  - {fileID: 21300000, guid: 1e4a5a2d61d5027498089e4680693c22, type: 3}
+  - {fileID: 21300000, guid: e51bb9bd54672fa45897323c7e7a5e56, type: 3}
+  - {fileID: 21300000, guid: 7298521f391134649aef99d53df27810, type: 3}
+  - {fileID: 21300000, guid: fd2eabef1d1eb08449f70586999eb81c, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - bottom-border
+  - "\u0445\u0432\u043E\u0441\u0442 x3"
+  - top-border
+  - bottom-fill
+  - 006_back
+  - 007_theme
+  - "\u042D\u043B\u043B\u0438\u043F\u0441(\u0434\u0438\u0430\u043C\u0435\u0442\u0440
+    627, \u0442\u043E\u043B\u0449.\u043B\u0438\u043D.40)"
+  - top-fill
+  - 008_settings
+  - "\u0442\u0435\u043D\u044C \u0434\u043B\u044F \u0430\u0432\u0430\u0442\u0430\u0440\u043E\u043A"
+  - "\u043F\u043E\u043F\u043A\u0430 x3"
+  m_Tag: GameplayScreen
+  m_IsVariant: 0

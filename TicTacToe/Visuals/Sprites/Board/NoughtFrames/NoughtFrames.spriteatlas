@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: NoughtFrames
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 444b3e0fc9523974489d8cf3fd867d22, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 724b36433eb21024aa3481f474602302, type: 3}
+  - {fileID: 21300000, guid: 35e727047bb135641ae8f364d300261b, type: 3}
+  - {fileID: 21300000, guid: 4feebe286418241498d89331cd3506a5, type: 3}
+  - {fileID: 21300000, guid: d129e5495cd2ef146b7422117d01deda, type: 3}
+  - {fileID: 21300000, guid: e8675beba9e199143b8579534ec582d5, type: 3}
+  - {fileID: 21300000, guid: e1e6441d571d2674c915ce2aeabd5e8a, type: 3}
+  - {fileID: 21300000, guid: 328f053dbcc073a44a39e7f96dd51525, type: 3}
+  - {fileID: 21300000, guid: 3fde7b7d72a7af4458314ab2d5d3a4b3, type: 3}
+  - {fileID: 21300000, guid: 4687bccdd9bedbd4bac829f1264f3507, type: 3}
+  - {fileID: 21300000, guid: ea693fcd20d445b429c8aea4187b282b, type: 3}
+  - {fileID: 21300000, guid: 80ba283e3eb8afb4c8b006d8641a15f8, type: 3}
+  - {fileID: 21300000, guid: c14a0f3e1b449644fb081ce4397139a1, type: 3}
+  - {fileID: 21300000, guid: 443abd5ea63c5334c891ce91cc8a6f52, type: 3}
+  - {fileID: 21300000, guid: 5979618e044cc304eab68c5de8c78e13, type: 3}
+  - {fileID: 21300000, guid: f264d2de569148842aa5363ddfc9be77, type: 3}
+  - {fileID: 21300000, guid: 45d53d1f15ef2284cb2162cfbdabcbfb, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - 11
+  - 4
+  - 16
+  - 13
+  - 8
+  - 3
+  - 7
+  - 14
+  - 15
+  - 2
+  - 12
+  - 1
+  - 5
+  - 9
+  - 10
+  - 6
+  m_Tag: NoughtFrames
+  m_IsVariant: 0

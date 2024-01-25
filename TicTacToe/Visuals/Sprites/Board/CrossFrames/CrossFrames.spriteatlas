@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: CrossFrames
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: e662f3aef8844fa4f86653da489c28bd, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 17c75662540b6bb4388d0a5997759aff, type: 3}
+  - {fileID: 21300000, guid: 07a90df2703a0044f9369e258b9ac827, type: 3}
+  - {fileID: 21300000, guid: 8af9f7e312cc2ea4ea1ff20d13dbdef5, type: 3}
+  - {fileID: 21300000, guid: 187ade049137a2942927eca952851bbc, type: 3}
+  - {fileID: 21300000, guid: 8a949cb43ebd82b4a85e80364d3d4cea, type: 3}
+  - {fileID: 21300000, guid: 252210d43de1db541b1344bdefcbc4d4, type: 3}
+  - {fileID: 21300000, guid: 0d055e95b6f02cf43be17f8705577aa2, type: 3}
+  - {fileID: 21300000, guid: b0ea248649423bc4c9c151caf801a0bd, type: 3}
+  - {fileID: 21300000, guid: 0222f197c1e084243bcf44e73cd83422, type: 3}
+  - {fileID: 21300000, guid: 991a9ee81ab44814387561941a9fc137, type: 3}
+  - {fileID: 21300000, guid: e030ff39c0ece3b4b9857d46c94dcad4, type: 3}
+  - {fileID: 21300000, guid: ff51254ae8c0f2e46a9a5443cda1483d, type: 3}
+  - {fileID: 21300000, guid: 6807184abaef6214d815ab7f30ff9298, type: 3}
+  - {fileID: 21300000, guid: be24e35af9b90d14fb5fe3cafadca875, type: 3}
+  - {fileID: 21300000, guid: 59a1a9cbb40fc734c88ae8bd088e7078, type: 3}
+  - {fileID: 21300000, guid: 860fa17efc037604380cc89ab0e996fe, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - 16
+  - 10
+  - 11
+  - 2
+  - 15
+  - 4
+  - 7
+  - 8
+  - 3
+  - 5
+  - 12
+  - 9
+  - 1
+  - 14
+  - 13
+  - 6
+  m_Tag: CrossFrames
+  m_IsVariant: 0

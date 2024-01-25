@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Strategy
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 2
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 9db48647c95e1fa47a5eff340ee98feb, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 5cbc942074e9784438a462f91bd641ff, type: 3}
+  - {fileID: 21300000, guid: 86d4759002c62594f9c0ab547a18ed47, type: 3}
+  - {fileID: 21300000, guid: ba3cf2e2108a56a4da68950a6a5b4e53, type: 3}
+  - {fileID: 21300000, guid: 08ed060b66d482441ad32a6bb5c08a93, type: 3}
+  - {fileID: 21300000, guid: 83bee91c6513cd74ab4590b7c402d157, type: 3}
+  - {fileID: 21300000, guid: 09f0634ed8715034ca7f88a65bdddf85, type: 3}
+  - {fileID: 21300000, guid: 01f0186e6975c6943a635b3c522062d2, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - "\u0441\u0442\u0440\u0430\u0442\u0435\u0433\u0438\u0447\u0435\u0441\u043A\u0438\u0439-\u0440\u0435\u0436\u0438\u043C-\u0441\u0440\u0435\u0434\u043D\u0435\u0435-\u043F\u043E\u043B\u0435-3\u0445-\u043A\u0440\u0430\u0442-\u0431\u0435\u043B\u043E\u0435"
+  - "Winline-\u0432\u0435\u0440\u0442\u0438\u043A\u0430\u043B\u044C\u043D\u044B\u0439-3\u0445-\u043A\u0440\u0430\u0442\u043D\u044B\u0439-\u0440\u0430\u0437\u043C\u0435\u0440-\u0431\u0435\u043B\u044B\u0439
+    2"
+  - "draw-3\u0445-\u043A\u0440\u0430\u0442"
+  - "\u043D\u043E\u043B\u0438\u043A-\u0432-3\u0445-\u043A\u0440\u0430\u0442\u043D\u043E\u043C-\u0440\u0430\u0437\u043C\u0435\u0440\u0435-\u0431\u0435\u043B\u044B\u0439
+    2"
+  - "\u044D\u043A\u0440\u0430\u043D-\u0437\u0443\u043C\u0430-2\u0445-\u043A\u0440\u0430\u0442-\u0440\u0430\u0437\u043C\u0435\u0440"
+  - "\u043A\u0440\u0435\u0441\u0442\u0438\u043A-\u0432-3\u0445-\u043A\u0440\u0430\u0442\u043D\u043E\u043C-\u0440\u0430\u0437\u043C\u0435\u0440\u0435-\u0431\u0435\u043B\u044B\u0439
+    2"
+  - "\u0432\u044B\u0434\u0435\u043B\u0435\u043D\u0438\u0435-\u0430\u043A\u0442\u0438\u0432\u043D\u043E\u0433\u043E-\u043F\u043E\u043B\u044F"
+  m_Tag: Strategy
+  m_IsVariant: 0
